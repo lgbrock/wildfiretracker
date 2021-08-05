@@ -11,7 +11,7 @@
 
 > Tracking fires that are making their way through Greece with NASA API
 
-### 🏠 [Homepage](https://github.com/lgbrock/wildfiretracker)
+### 🏠 [Homepage](https://greece-fire-tracker.netlify.app/)
 
 ## Install
 
