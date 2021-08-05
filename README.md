@@ -36,13 +36,10 @@ npm run test
 👤 **Logan Brock**
 
 * Website: logangbrock.com
-* Twitter: [@lifeisagarden](https://twitter.com/lifeisagarden)
+* Twitter: [@lifeisagarden23](https://twitter.com/lifeisagarden)
 * Github: [@lgbrock](https://github.com/lgbrock)
 * LinkedIn: [@loganbrock](https://linkedin.com/in/loganbrock)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
